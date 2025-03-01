@@ -2,9 +2,9 @@
 
 Submitted by: **Kehinde Ayeyemi**
 
-This web app: **insert description**
+This web app: **A simple React-based job board designed for students to explore internship and job opportunities.**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -20,7 +20,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you added to improve the site's functionality!
+- [x] List anything else that you added to improve the site's functionality!
+
+Display job listings with **job titles, company names, and locations**  
+Includes **job-related images**  
+**Responsive design** for mobile & desktop  
+"Apply Now" button linking to job applications  
+Built with **React + Vite**
 
 ## Video Walkthrough
 
