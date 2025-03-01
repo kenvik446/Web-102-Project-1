@@ -34,9 +34,13 @@ Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Tooling:** Vite, Git, GitHub
+- **Data Handling:** Props
+- **Styling:** CSS Flexbox & Grid
 
-GIF created with ...
+Project1.gif
+GIF created with GIPHY
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
