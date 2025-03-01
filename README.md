@@ -39,7 +39,8 @@ Here's a walkthrough of implemented required features:
 - **Data Handling:** Props
 - **Styling:** CSS Flexbox & Grid
 
-Project1.gif
+![Demo GIF](Project1.gif)
+
 GIF created with GIPHY
 
 <!-- Recommended tools:
